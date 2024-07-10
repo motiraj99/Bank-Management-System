@@ -8,3 +8,5 @@ Functionalities:
 4) Cash Withdrawal
 5) Mini Statement
 6) Fast Cash etc
+
+Skills: Java, GUI, SQL
